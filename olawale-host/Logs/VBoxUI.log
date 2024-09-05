@@ -1,0 +1,230 @@
+00:00:01.001958 VirtualBox GUI (separate) 7.0.20 r163906 darwin.amd64 (Jul 10 2024 14:51:16) release log
+00:00:01.001960 Log opened 2024-08-30T12:06:20.210176000Z
+00:00:01.001960 Build Type: release
+00:00:01.001973 OS Product: Darwin
+00:00:01.001979 OS Release: 21.6.0
+00:00:01.001985 OS Version: Darwin Kernel Version 21.6.0: Thu Nov  9 00:38:19 PST 2023; root:xnu-8020.240.18.705.10~1/RELEASE_X86_64
+00:00:01.002086 DMI Product Name: MacBookPro12,1
+00:00:01.002142 DMI Product Version: 1.0
+00:00:01.002146 Firmware type: failed - VERR_NOT_SUPPORTED
+00:00:01.002165 Host RAM: 8192MB (8.0GB) total, 2847MB (2.7GB) available
+00:00:01.002167 Executable: /Applications/VirtualBox.app/Contents/MacOS/VirtualBoxVM
+00:00:01.002168 Process ID: 2378
+00:00:01.002168 Package type: DARWIN_64BITS_GENERIC
+00:00:01.003057 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:02.395040 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.802837 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+00:00:02.862329 GUI: UIMachineViewNormal::resendSizeHint: Restoring guest size-hint for screen 0 to 800x600
+00:00:03.036409 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:03.038532 GUI: UIFrameBufferPrivate::performResize: Size=720x400, Using fallback buffer since no source bitmap is provided
+00:00:03.252721 GUI: UISession::sltAdditionsChange: GA state change event came, notifying listeners
+00:00:03.252768 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:00:03.262237 GUI: HID LEDs sync is enabled
+00:00:03.368235 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:00:03.587328 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:31.859855 GUI: UISession::sltAdditionsChange: GA state change event came, notifying listeners
+00:00:31.861253 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:00:31.865363 GUI: UISession::sltAdditionsChange: GA state change event came, notifying listeners
+00:00:31.865413 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:00:32.063799 GUI: UISession::sltAdditionsChange: GA state really changed, notifying listeners
+00:00:32.063883 GUI: UIMachineViewNormal::adjustGuestScreenSize: Adjust guest-screen size if necessary
+00:00:32.064332 GUI: UISession::sltAdditionsChange: GA state change event came, notifying listeners
+00:00:32.064364 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=1, Machine-state=6
+00:00:36.259845 GUI: UIFrameBufferPrivate::performResize: Size=1280x800, Using fallback buffer since no source bitmap is provided
+00:00:36.951197 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:39.651106 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:43.543248 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:43.872360 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:46.617599 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:48.375903 GUI: UIMachineWindow::handleStandardWindowButtonCallback: Callback for standard window button '2' with option key '0' received
+00:00:48.414908 GUI: UIMultiScreenLayout::update: GUI/AutomountGuestScreens is disabled
+00:00:48.514201 GUI: UIMachineViewFullscreen::adjustGuestScreenSize: Desired hint 2560x1600 for guest-screen #0 differs from the one in IDisplay, adjustment is required.
+00:00:48.514397 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 2560x1600
+00:00:48.516684 GUI: UIMachineLogicFullscreen::revalidateNativeFullScreen: For machine-window #0
+00:00:48.516724 GUI: UIMachineLogicFullscreen::revalidateNativeFullScreen: Ask machine-window #0 to enter native fullscreen
+00:00:48.517925 GUI: UIMachineViewFullscreen::adjustGuestScreenSize: Desired hint 2560x1600 for guest-screen #0 is already in IDisplay, adjustment is not required.
+00:00:48.577896 GUI: UIMachineWindow::handleNativeNotification: Notification 'NSWindowWillEnterFullScreenNotification' received
+00:00:48.578026 UIMachineWindowFullscreen::handleNativeNotification: Notification 'NSWindowWillEnterFullScreenNotification' received.
+00:00:48.578046 UIMachineWindowFullscreen::handleNativeNotification: Native fullscreen mode about to enter, notifying listener...
+00:00:49.030768 GUI: UIFrameBufferPrivate::performResize: Size=1280x800, Using fallback buffer since no source bitmap is provided
+00:00:49.040369 GUI: UIMachineLogicFullscreen::sltHandleNativeFullscreenWillEnter: Machine-window #0 will enter native fullscreen
+00:00:49.154483 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:49.894870 GUI: UIMachineWindow::handleNativeNotification: Notification 'NSWindowDidEnterFullScreenNotification' received
+00:00:49.894920 UIMachineWindowFullscreen::handleNativeNotification: Notification 'NSWindowDidEnterFullScreenNotification' received.
+00:00:49.894939 UIMachineWindowFullscreen::handleNativeNotification: Native fullscreen mode entered, notifying listener...
+00:00:49.926141 GUI: UIMachineLogicFullscreen::sltHandleNativeFullscreenDidEnter: Machine-window #0 did enter native fullscreen
+00:00:49.926352 GUI: UIMultiScreenLayout::update: GUI/AutomountGuestScreens is disabled
+00:00:49.926739 GUI: UIMachineLogicFullscreen::revalidateNativeFullScreen: For machine-window #0
+00:10:42.801809 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 0x0 x 1280x800
+00:10:43.326491 GUI: UIMachineLogicFullscreen: Host-screen count changed
+00:10:43.327623 GUI: UIMultiScreenLayout::update: GUI/AutomountGuestScreens is disabled
+00:10:43.330290 GUI: UIMachineLogicFullscreen::revalidateNativeFullScreen: For machine-window #0
+00:10:57.294872 GUI: UIMachineWindow::handleNativeNotification: Notification 'NSWindowWillExitFullScreenNotification' received
+00:10:57.295165 UIMachineWindowFullscreen::handleNativeNotification: Notification 'NSWindowWillExitFullScreenNotification' received.
+00:10:57.295215 UIMachineWindowFullscreen::handleNativeNotification: Native fullscreen mode about to exit, notifying listener...
+00:10:57.463678 GUI: UIMachineLogicFullscreen::sltHandleNativeFullscreenWillExit: Machine-window #0 will exit native fullscreen
+00:10:58.186624 GUI: UIMachineWindow::handleNativeNotification: Notification 'NSWindowDidExitFullScreenNotification' received
+00:10:58.186749 UIMachineWindowFullscreen::handleNativeNotification: Notification 'NSWindowDidExitFullScreenNotification' received.
+00:10:58.186785 UIMachineWindowFullscreen::handleNativeNotification: Native fullscreen mode exited, notifying listener...
+00:10:58.649734 GUI: UIMachineLogicFullscreen::sltHandleNativeFullscreenDidExit: Machine-window #0 exited native fullscreen, changing visual-state to requested...
+00:11:00.240426 GUI: UIMachineViewNormal::resendSizeHint: Restoring guest size-hint for screen 0 to 800x600
+00:11:02.427350 GUI: UIFrameBufferPrivate::performResize: Size=1280x800, Using fallback buffer since no source bitmap is provided
+00:11:02.989050 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:11:06.509368 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:11:08.423970 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:11:09.811397 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:11:10.131027 GUI: UIMachineWindow::handleStandardWindowButtonCallback: Callback for standard window button '2' with option key '0' received
+00:11:10.403994 GUI: UIMultiScreenLayout::update: GUI/AutomountGuestScreens is disabled
+00:11:10.597571 GUI: UIMachineViewFullscreen::adjustGuestScreenSize: Desired hint 1920x1080 for guest-screen #0 differs from the one in IDisplay, adjustment is required.
+00:11:10.597669 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 1920x1080
+00:11:10.606260 GUI: UIMachineLogicFullscreen::revalidateNativeFullScreen: For machine-window #0
+00:11:10.606314 GUI: UIMachineLogicFullscreen::revalidateNativeFullScreen: Ask machine-window #0 to enter native fullscreen
+00:11:10.607873 GUI: UIMachineViewFullscreen::adjustGuestScreenSize: Desired hint 1920x1080 for guest-screen #0 is already in IDisplay, adjustment is not required.
+00:11:10.658340 GUI: UIMachineWindow::handleNativeNotification: Notification 'NSWindowWillEnterFullScreenNotification' received
+00:11:10.658379 UIMachineWindowFullscreen::handleNativeNotification: Notification 'NSWindowWillEnterFullScreenNotification' received.
+00:11:10.658396 UIMachineWindowFullscreen::handleNativeNotification: Native fullscreen mode about to enter, notifying listener...
+00:11:12.295206 GUI: UIFrameBufferPrivate::performResize: Size=1280x800, Using fallback buffer since no source bitmap is provided
+00:11:12.315356 GUI: UIMachineLogicFullscreen::sltHandleNativeFullscreenWillEnter: Machine-window #0 will enter native fullscreen
+00:11:13.091640 GUI: UIMachineWindow::handleNativeNotification: Notification 'NSWindowDidEnterFullScreenNotification' received
+00:11:13.091710 UIMachineWindowFullscreen::handleNativeNotification: Notification 'NSWindowDidEnterFullScreenNotification' received.
+00:11:13.091723 UIMachineWindowFullscreen::handleNativeNotification: Native fullscreen mode entered, notifying listener...
+00:11:13.143868 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:11:13.143934 GUI: UIMachineLogicFullscreen::sltHandleNativeFullscreenDidEnter: Machine-window #0 did enter native fullscreen
+00:11:13.143970 GUI: UIMultiScreenLayout::update: GUI/AutomountGuestScreens is disabled
+00:11:13.144073 GUI: UIMachineLogicFullscreen::revalidateNativeFullScreen: For machine-window #0
+00:11:13.144098 GUI: UIMachineLogicFullscreen::revalidateNativeFullScreen: Ask machine-window #0 to adjust guest geometry
+00:11:13.226545 GUI: UIMachineViewFullscreen::adjustGuestScreenSize: Desired hint 1920x1080 for guest-screen #0 is already in IDisplay, adjustment is not required.
+00:21:20.605214 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:21:21.299515 GUI: UISession::sltAdditionsChange: GA state really changed, notifying listeners
+00:21:21.299607 GUI: UIMachineLogicFullscreen: Additions-state actual-change event, rebuild multi-screen layout
+00:21:21.299633 GUI: UIMultiScreenLayout::update: GUI/AutomountGuestScreens is disabled
+00:21:21.300193 GUI: UIMachineViewFullscreen::adjustGuestScreenSize: Desired hint 1920x1080 for guest-screen #0 is already in IDisplay, adjustment is not required.
+00:21:21.300221 GUI: UISession::sltAdditionsChange: GA state change event came, notifying listeners
+00:21:21.300237 GUI: UIMachineLogicFullscreen::sltCheckForRequestedVisualStateType: Requested-state=0, Machine-state=6
+00:21:23.365782 GUI: UIFrameBufferPrivate::performResize: Size=1280x800, Using fallback buffer since no source bitmap is provided
+00:21:23.368353 GUI: UIFrameBufferPrivate::performResize: Size=720x400, Using fallback buffer since no source bitmap is provided
+00:21:23.410355 GUI: UIMachineLogicFullscreen: Guest-screen count changed
+00:21:23.410412 GUI: UIMultiScreenLayout::update: GUI/AutomountGuestScreens is disabled
+00:21:23.410520 GUI: UIMachineLogicFullscreen::revalidateNativeFullScreen: For machine-window #0
+00:21:23.410549 GUI: UIMachineLogicFullscreen::revalidateNativeFullScreen: Ask machine-window #0 to adjust guest geometry
+00:21:23.413803 GUI: UIMachineViewFullscreen::adjustGuestScreenSize: Desired hint 1920x1080 for guest-screen #0 is already in IDisplay, adjustment is not required.
+00:21:23.975118 GUI: UIFrameBufferPrivate::performResize: Size=720x400, Using fallback buffer since no source bitmap is provided
+00:21:24.164534 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+00:21:26.392445 GUI: UIFrameBufferPrivate::performResize: Size=720x400, Using fallback buffer since no source bitmap is provided
+00:21:27.405009 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+00:21:34.244658 GUI: UIFrameBufferPrivate::performResize: Size=720x400, Using fallback buffer since no source bitmap is provided
+00:21:46.968454 GUI: UISession::sltAdditionsChange: GA state change event came, notifying listeners
+00:21:46.969579 GUI: UIMachineLogicFullscreen::sltCheckForRequestedVisualStateType: Requested-state=0, Machine-state=6
+00:21:47.004870 GUI: UISession::sltAdditionsChange: GA state change event came, notifying listeners
+00:21:47.004914 GUI: UIMachineLogicFullscreen::sltCheckForRequestedVisualStateType: Requested-state=0, Machine-state=6
+00:21:47.029378 GUI: UISession::sltAdditionsChange: GA state really changed, notifying listeners
+00:21:47.029426 GUI: UIMachineLogicFullscreen: Additions-state actual-change event, rebuild multi-screen layout
+00:21:47.029443 GUI: UIMultiScreenLayout::update: GUI/AutomountGuestScreens is disabled
+00:21:47.029904 GUI: UIMachineViewFullscreen::adjustGuestScreenSize: Desired hint 1920x1080 for guest-screen #0 is already in IDisplay, adjustment is not required.
+00:21:47.029929 GUI: UISession::sltAdditionsChange: GA state change event came, notifying listeners
+00:21:47.029940 GUI: UIMachineLogicFullscreen::sltCheckForRequestedVisualStateType: Requested-state=0, Machine-state=6
+00:21:47.313315 GUI: UIFrameBufferPrivate::performResize: Size=1280x800, Using fallback buffer since no source bitmap is provided
+00:28:01.329632 GUI: UISession::sltAdditionsChange: GA state really changed, notifying listeners
+00:28:01.330678 GUI: UIMachineLogicFullscreen: Additions-state actual-change event, rebuild multi-screen layout
+00:28:01.330741 GUI: UIMultiScreenLayout::update: GUI/AutomountGuestScreens is disabled
+00:28:01.331402 GUI: UIMachineViewFullscreen::adjustGuestScreenSize: Desired hint 1920x1080 for guest-screen #0 is already in IDisplay, adjustment is not required.
+00:28:01.331447 GUI: UISession::sltAdditionsChange: GA state change event came, notifying listeners
+00:28:01.331464 GUI: UIMachineLogicFullscreen::sltCheckForRequestedVisualStateType: Requested-state=0, Machine-state=6
+00:28:03.545046 GUI: UIFrameBufferPrivate::performResize: Size=1280x800, Using fallback buffer since no source bitmap is provided
+00:28:03.566437 GUI: UIFrameBufferPrivate::performResize: Size=720x400, Using fallback buffer since no source bitmap is provided
+00:28:03.634143 GUI: UIMachineLogicFullscreen: Guest-screen count changed
+00:28:03.634287 GUI: UIMultiScreenLayout::update: GUI/AutomountGuestScreens is disabled
+00:28:03.634525 GUI: UIMachineLogicFullscreen::revalidateNativeFullScreen: For machine-window #0
+00:28:03.634571 GUI: UIMachineLogicFullscreen::revalidateNativeFullScreen: Ask machine-window #0 to adjust guest geometry
+00:28:03.645230 GUI: UIMachineViewFullscreen::adjustGuestScreenSize: Desired hint 1920x1080 for guest-screen #0 is already in IDisplay, adjustment is not required.
+00:28:04.005166 GUI: UIFrameBufferPrivate::performResize: Size=720x400, Using fallback buffer since no source bitmap is provided
+00:28:04.265779 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+00:28:06.444618 GUI: UIFrameBufferPrivate::performResize: Size=720x400, Using fallback buffer since no source bitmap is provided
+00:28:07.424388 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+00:28:13.974648 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+00:28:14.074188 GUI: UIFrameBufferPrivate::performResize: Size=720x400, Using fallback buffer since no source bitmap is provided
+00:28:27.806459 GUI: UISession::sltAdditionsChange: GA state change event came, notifying listeners
+00:28:27.807539 GUI: UIMachineLogicFullscreen::sltCheckForRequestedVisualStateType: Requested-state=0, Machine-state=6
+00:28:27.809174 GUI: UISession::sltAdditionsChange: GA state change event came, notifying listeners
+00:28:27.809221 GUI: UIMachineLogicFullscreen::sltCheckForRequestedVisualStateType: Requested-state=0, Machine-state=6
+00:28:27.908283 GUI: UISession::sltAdditionsChange: GA state really changed, notifying listeners
+00:28:27.908364 GUI: UIMachineLogicFullscreen: Additions-state actual-change event, rebuild multi-screen layout
+00:28:27.908492 GUI: UIMultiScreenLayout::update: GUI/AutomountGuestScreens is disabled
+00:28:27.909050 GUI: UIMachineViewFullscreen::adjustGuestScreenSize: Desired hint 1920x1080 for guest-screen #0 is already in IDisplay, adjustment is not required.
+00:28:27.909085 GUI: UISession::sltAdditionsChange: GA state change event came, notifying listeners
+00:28:27.909099 GUI: UIMachineLogicFullscreen::sltCheckForRequestedVisualStateType: Requested-state=0, Machine-state=6
+00:28:28.294542 GUI: UIFrameBufferPrivate::performResize: Size=1280x800, Using fallback buffer since no source bitmap is provided
+00:53:02.091765 GUI: UIMachineWindow::handleNativeNotification: Notification 'NSWindowWillExitFullScreenNotification' received
+00:53:02.092974 UIMachineWindowFullscreen::handleNativeNotification: Notification 'NSWindowWillExitFullScreenNotification' received.
+00:53:02.093011 UIMachineWindowFullscreen::handleNativeNotification: Native fullscreen mode about to exit, notifying listener...
+00:53:02.233348 GUI: UIMachineLogicFullscreen::sltHandleNativeFullscreenWillExit: Machine-window #0 will exit native fullscreen
+00:53:02.796986 GUI: UIMachineWindow::handleNativeNotification: Notification 'NSWindowDidExitFullScreenNotification' received
+00:53:02.797320 UIMachineWindowFullscreen::handleNativeNotification: Notification 'NSWindowDidExitFullScreenNotification' received.
+00:53:02.797363 UIMachineWindowFullscreen::handleNativeNotification: Native fullscreen mode exited, notifying listener...
+00:53:02.845146 GUI: UIMachineLogicFullscreen::sltHandleNativeFullscreenDidExit: Machine-window #0 exited native fullscreen, changing visual-state to requested...
+00:53:03.277937 GUI: UIMachineViewNormal::resendSizeHint: Restoring guest size-hint for screen 0 to 800x600
+00:53:04.494676 GUI: UIFrameBufferPrivate::performResize: Size=1280x800, Using fallback buffer since no source bitmap is provided
+00:53:04.593895 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:53:10.232601 GUI: UIMachineWindow::handleStandardWindowButtonCallback: Callback for standard window button '2' with option key '0' received
+00:53:10.353280 GUI: UIMultiScreenLayout::update: GUI/AutomountGuestScreens is disabled
+00:53:10.462557 GUI: UIMachineViewFullscreen::adjustGuestScreenSize: Desired hint 1920x1080 for guest-screen #0 differs from the one in IDisplay, adjustment is required.
+00:53:10.462621 GUI: UIMachineView::sltPerformGuestResize: Sending guest size-hint to screen 0 as 1920x1080
+00:53:10.465841 GUI: UIMachineLogicFullscreen::revalidateNativeFullScreen: For machine-window #0
+00:53:10.465885 GUI: UIMachineLogicFullscreen::revalidateNativeFullScreen: Ask machine-window #0 to enter native fullscreen
+00:53:10.467519 GUI: UIMachineViewFullscreen::adjustGuestScreenSize: Desired hint 1920x1080 for guest-screen #0 is already in IDisplay, adjustment is not required.
+00:53:10.490440 GUI: UIMachineWindow::handleNativeNotification: Notification 'NSWindowWillEnterFullScreenNotification' received
+00:53:10.490498 UIMachineWindowFullscreen::handleNativeNotification: Notification 'NSWindowWillEnterFullScreenNotification' received.
+00:53:10.490523 UIMachineWindowFullscreen::handleNativeNotification: Native fullscreen mode about to enter, notifying listener...
+00:53:10.814405 GUI: UIFrameBufferPrivate::performResize: Size=1280x800, Using fallback buffer since no source bitmap is provided
+00:53:10.859364 GUI: UIMachineLogicFullscreen::sltHandleNativeFullscreenWillEnter: Machine-window #0 will enter native fullscreen
+00:53:10.941726 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:53:11.505489 GUI: UIMachineWindow::handleNativeNotification: Notification 'NSWindowDidEnterFullScreenNotification' received
+00:53:11.505542 UIMachineWindowFullscreen::handleNativeNotification: Notification 'NSWindowDidEnterFullScreenNotification' received.
+00:53:11.505559 UIMachineWindowFullscreen::handleNativeNotification: Native fullscreen mode entered, notifying listener...
+00:53:11.561375 GUI: UIMachineLogicFullscreen::sltHandleNativeFullscreenDidEnter: Machine-window #0 did enter native fullscreen
+00:53:11.561511 GUI: UIMultiScreenLayout::update: GUI/AutomountGuestScreens is disabled
+00:53:11.561620 GUI: UIMachineLogicFullscreen::revalidateNativeFullScreen: For machine-window #0
+00:53:11.561644 GUI: UIMachineLogicFullscreen::revalidateNativeFullScreen: Ask machine-window #0 to adjust guest geometry
+00:53:11.591758 GUI: UIMachineViewFullscreen::adjustGuestScreenSize: Desired hint 1920x1080 for guest-screen #0 is already in IDisplay, adjustment is not required.
+01:15:57.734769 GUI: UISession::sltAdditionsChange: GA state really changed, notifying listeners
+01:15:57.736303 GUI: UIMachineLogicFullscreen: Additions-state actual-change event, rebuild multi-screen layout
+01:15:57.736350 GUI: UIMultiScreenLayout::update: GUI/AutomountGuestScreens is disabled
+01:15:57.737013 GUI: UIMachineViewFullscreen::adjustGuestScreenSize: Desired hint 1920x1080 for guest-screen #0 is already in IDisplay, adjustment is not required.
+01:15:57.737106 GUI: UISession::sltAdditionsChange: GA state change event came, notifying listeners
+01:15:57.737173 GUI: UIMachineLogicFullscreen::sltCheckForRequestedVisualStateType: Requested-state=0, Machine-state=6
+01:16:00.330821 GUI: UIFrameBufferPrivate::performResize: Size=1280x800, Using fallback buffer since no source bitmap is provided
+01:16:00.333712 GUI: UIFrameBufferPrivate::performResize: Size=720x400, Using fallback buffer since no source bitmap is provided
+01:16:00.393858 GUI: UIMachineLogicFullscreen: Guest-screen count changed
+01:16:00.393922 GUI: UIMultiScreenLayout::update: GUI/AutomountGuestScreens is disabled
+01:16:00.394340 GUI: UIMachineLogicFullscreen::revalidateNativeFullScreen: For machine-window #0
+01:16:00.394511 GUI: UIMachineLogicFullscreen::revalidateNativeFullScreen: Ask machine-window #0 to adjust guest geometry
+01:16:00.398653 GUI: UIMachineViewFullscreen::adjustGuestScreenSize: Desired hint 1920x1080 for guest-screen #0 is already in IDisplay, adjustment is not required.
+01:16:01.205683 GUI: UIFrameBufferPrivate::performResize: Size=720x400, Using fallback buffer since no source bitmap is provided
+01:16:01.484631 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+01:16:03.724310 GUI: UIFrameBufferPrivate::performResize: Size=720x400, Using fallback buffer since no source bitmap is provided
+01:16:04.915174 GUI: UIFrameBufferPrivate::performResize: Size=640x480, Using fallback buffer since no source bitmap is provided
+01:16:14.164663 GUI: UIFrameBufferPrivate::performResize: Size=720x400, Using fallback buffer since no source bitmap is provided
+01:16:30.514540 GUI: UISession::sltAdditionsChange: GA state change event came, notifying listeners
+01:16:30.514597 GUI: UIMachineLogicFullscreen::sltCheckForRequestedVisualStateType: Requested-state=0, Machine-state=6
+01:16:30.516928 GUI: UISession::sltAdditionsChange: GA state change event came, notifying listeners
+01:16:30.516978 GUI: UIMachineLogicFullscreen::sltCheckForRequestedVisualStateType: Requested-state=0, Machine-state=6
+01:16:30.613396 GUI: UISession::sltAdditionsChange: GA state really changed, notifying listeners
+01:16:30.613438 GUI: UIMachineLogicFullscreen: Additions-state actual-change event, rebuild multi-screen layout
+01:16:30.613455 GUI: UIMultiScreenLayout::update: GUI/AutomountGuestScreens is disabled
+01:16:30.613985 GUI: UIMachineViewFullscreen::adjustGuestScreenSize: Desired hint 1920x1080 for guest-screen #0 is already in IDisplay, adjustment is not required.
+01:16:30.614021 GUI: UISession::sltAdditionsChange: GA state change event came, notifying listeners
+01:16:30.614035 GUI: UIMachineLogicFullscreen::sltCheckForRequestedVisualStateType: Requested-state=0, Machine-state=6
+01:16:31.045797 GUI: UIFrameBufferPrivate::performResize: Size=1280x800, Using fallback buffer since no source bitmap is provided
+04:13:58.674840 GUI: UIMachineLogicFullscreen::sltMachineStateChanged:Machine-state changed from 'paused' to 'running': Adjust machine-window geometry...
+04:13:58.679317 GUI: UIMachineLogicFullscreen::adjustMachineWindowsGeometry
+04:13:58.680005 GUI: UIMultiScreenLayout::update: GUI/AutomountGuestScreens is disabled
+04:13:58.680371 GUI: UIMachineLogicFullscreen::revalidateNativeFullScreen: For machine-window #0
+04:13:58.680401 GUI: UIMachineLogicFullscreen::revalidateNativeFullScreen: Ask machine-window #0 to adjust guest geometry
+04:13:58.744034 GUI: UIMachineViewFullscreen::adjustGuestScreenSize: Desired hint 1920x1080 for guest-screen #0 is already in IDisplay, adjustment is not required.
+04:16:15.052575 GUI: UIFrameBufferPrivate::performResize: Size=1280x800, Using fallback buffer since no source bitmap is provided
+04:16:16.879373 GUI: Request to close Runtime UI because VM is powered off already.
+04:16:16.881640 GUI: Passing request to close Runtime UI from UI session to UI machine.
+04:16:17.018394 GUI: UICommon: Handling aboutToQuit request..
+04:16:18.135476 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+04:16:18.146743 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+04:16:18.395333 GUI: UICommon: aboutToQuit request handled!
